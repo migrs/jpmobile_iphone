@@ -1,0 +1,17 @@
+= jpmobile_iphone
+
+== Requirements
+  jpmobile: http://github.com/darashi/jpmobile/
+
+== Installation
+  ./script/plugin install git://github.com/migrs/jpmobile_iphone.git
+
+
+Example
+=======
+
+  request.iphone?
+
+  index_iphone.html.erb
+
+Copyright (c) 2009 Masato Igarashi, released under the MIT license
