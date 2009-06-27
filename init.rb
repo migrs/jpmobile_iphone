@@ -1,0 +1,1 @@
+require 'jpmobile_iphone'
